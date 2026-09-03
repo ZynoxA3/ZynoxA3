@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "zynoxa3-web"
-  }
+  },
+  "targets": {
+    "zynoxa3-web": {
+      "hosting": {
+        "zynoxa3": [
+          "zynoxa3"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

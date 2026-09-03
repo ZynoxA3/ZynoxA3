@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "zynoxa3",
     "public": ".",
     "ignore": [
       "firebase.json",
